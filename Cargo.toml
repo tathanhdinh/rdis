@@ -1,0 +1,7 @@
+[package]
+name = "rdis"
+version = "0.1.0"
+authors = ["TA Thanh Dinh <tathanhdinh@gmail.com>"]
+
+[dependencies]
+quicli = "*"
