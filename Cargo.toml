@@ -4,4 +4,7 @@ version = "0.1.0"
 authors = ["TA Thanh Dinh <tathanhdinh@gmail.com>"]
 
 [dependencies]
-quicli = "*"
+# quicli = "*"
+failure = "*"
+structopt = "*"
+capstone = { git = "https://github.com/capstone-rust/capstone-rs.git" }
